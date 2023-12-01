@@ -1,0 +1,34 @@
+:root {
+
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html::-webkit-scrollbar {
+  display: none;
+}
+
+#main-nav {
+  background-color: transparent;
+}
+
+section {
+  height: 100vh;
+}
+
+#home {
+  background: url(./images/india-bg.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.custom-col {
+  margin-top: 25%;
+}
+
+i {
+  color: black;
+}
