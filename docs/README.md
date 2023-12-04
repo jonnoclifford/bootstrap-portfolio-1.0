@@ -30,7 +30,7 @@ Open website at [https://jonnoclifford.github.io/bootstrap-portfolio-1.0](https:
 
 The following animation shows the web application's appearance and functionality:
 
-![Portfolio Demo](/assets/images/bootstrap-portfolio-demo.gif)
+![Portfolio Demo](/images/bootstrap-portfolio-demo.gif)
 
 ## Credits
 
