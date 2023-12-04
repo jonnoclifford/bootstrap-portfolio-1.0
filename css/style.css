@@ -6,6 +6,9 @@ html::-webkit-scrollbar {
   display: none;
 }
 
+
+/* NAVIGATION SECTION */
+
 #main-nav {
   background-color: rgba(0, 0, 0, 0.5);
   text-transform: uppercase;
@@ -51,6 +54,9 @@ i {
   color: black;
 }
 
+
+/* SECTIONS */
+
 .about {
   padding-bottom: 125px;
   background-color: #f8f9fa !important;
@@ -66,10 +72,6 @@ i {
 
 #display-4 {
   margin-bottom: 20px;
-}
-
-.test {
-  margin-top: 150px !important;
 }
 
 .hero {
@@ -105,7 +107,6 @@ i {
 
 
 /* CONTACT SECTION */
-
 
 
 .contact-section {
@@ -166,7 +167,8 @@ i {
   padding-bottom: 10px;
 }
 
-/* Cards */
+/* PORTFOLIO SECTION */
+
 .content {
   padding: 50px;
   background-size: cover;
